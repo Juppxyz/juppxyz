@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Jupp 👋</h1>
 
 <!--
 **Juppxyz/juppxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
