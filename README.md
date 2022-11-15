@@ -8,7 +8,7 @@
     age: 21,
     location: Germany,
     languages: ["Java", "Python", "JavaScript", "C/C++"],
-    currentFocus: "blockchains and decentralization",
+    currentFocus: "decentralization",
     loveIt: ["cyber security", "AI", "☕️"]
 }
 ```
