@@ -5,7 +5,7 @@
 ```javascript
 {
     name: "Jupp",
-    age: 21,
+    age: 22,
     location: Germany,
     languages: ["Java", "Python", "JavaScript"],
     currentFocus: "decentralization",
