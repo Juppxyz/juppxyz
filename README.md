@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi there, I'm Jupp 👋</h1>
-
+<h1 align="center">Hi there, I'm Jupp!</h1>
 
 ```javascript
 {
@@ -8,8 +7,7 @@
     age: 22,
     location: Germany,
     languages: ["Java", "Python", "JavaScript"],
-    currentFocus: "decentralization",
-    loveIt: ["cyber security", "AI", "☕️"]
+    currentFocus: "decentralization"
 }
 ```
 
