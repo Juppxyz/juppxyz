@@ -6,8 +6,7 @@
     name: "Jupp",
     age: 22,
     location: Germany,
-    languages: ["Java", "Python", "JavaScript"],
-    currentFocus: "decentralization"
+    languages: ["Java", "Python", "JavaScript", "C"]
 }
 ```
 
