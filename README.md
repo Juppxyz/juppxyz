@@ -4,9 +4,8 @@
 ```javascript
 {
     name: "Jupp",
-    age: 23,
+    age: 25,
     location: Germany,
-    languages: ["Java", "Python", "JavaScript", "C"]
 }
 ```
 
